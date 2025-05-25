@@ -9,13 +9,13 @@ Javier Martínez Lozano
 - matplotlib
 
 ## 3. Ejecucion local
-Si se desea descargar y correr el código localmente es necesario tener los paquetes instalados. Algunas maneras de facilitar el proceso son:
+Si se desea descargar y correr el código localmente es necesario tener los paquetes instalados. Algunas maneras de agilizar el proceso son:
 - Descargar los archivos
 ```bash
-git clone https://github.com/javimarloz/TFG-caos-y-estad-stica-Javier-Mart-nez.git
+git clone https://github.com/javimarloz/TFG-caos-y-estadistica-Javier-Martinez.git
 ```
 - Antes de ejecutar el jupyter notebook instalar los 'requirements', para ello usar el siguiente comando
 ```bash
 pip install -r requirements.txt
 ```
-- Ya instalado las dependencias ya puedes ejecutar el jupyter notebook
+- Ya instaladas las dependencias se puede ejecutar el jupyter notebook
