@@ -8,7 +8,7 @@ Javier Martínez Lozano
 - scipy
 - matplotlib
 
-## 3. Ejecucion local
+## 3. Ejecución local
 Si se desea descargar y correr el código localmente es necesario tener los paquetes instalados. Algunas maneras de agilizar el proceso son:
 - Descargar los archivos
 ```bash
