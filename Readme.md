@@ -3,6 +3,10 @@
 Javier Martínez Lozano
 
 ## 2. Ejecucion
+- Descargar los archivos
+```bash
+git clone https://github.com/javimarloz/TFG-caos-y-estad-stica-Javier-Mart-nez.git
+```
 - Antes de ejecutar el jupyter notebook hay que instalar los 'requirements', para ello usa el siguiente comando
 ```bash
 pip install -r requirements.txt
