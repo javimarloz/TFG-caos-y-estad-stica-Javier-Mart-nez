@@ -2,7 +2,13 @@
 ## 1. Autor
 Javier Martínez Lozano
 
-## 2. Ejecucion
+## 2 Dependencias de paquetes
+- numpy
+- qutip
+- scipy
+- matplotlib
+
+## 3. Ejecucion
 - Descargar los archivos
 ```bash
 git clone https://github.com/javimarloz/TFG-caos-y-estad-stica-Javier-Mart-nez.git
